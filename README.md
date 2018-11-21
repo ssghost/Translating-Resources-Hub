@@ -1,2 +1,2 @@
 # Translating-Resources-Hub
-I decided to assemble my amateur translating resources here and do on-line translating work on this platform. People who wanna collaborate with me can feel free to fork this repo.
+I decided to assemble my amateur translating resources here and do on-line translating work on this platform. People who wanna collaborate with me may feel free to fork this repo. Currently, the languages that I can translate from one to another included: Chinese, Japanese, English, French. No restriction on genres or styles. But all finished translations are supposed to publish.  
